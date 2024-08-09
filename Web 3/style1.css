@@ -1,0 +1,64 @@
+thead{
+    font-size: xx-large;
+}
+
+tbody{
+    font-size: x-large;
+}
+
+.x1{
+    display: inline-block;
+    background-image: url('amazon-dark-logo.png');
+    width: 100px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+}
+
+.x2{
+    display: inline-block;
+    background-image: url('AliExpress Logo.png');
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+}
+
+.x4{
+    display: inline-block;
+    background-image: url('Gamestreet-logo.png');
+    width: 150px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+}
+
+.x3{
+    display: inline-block;
+    background-image: url('Nanotek Logo.png');
+    width: 190px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+}
+
+body{
+    background-image: url('Background2.jpg');
+    background-size:cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+

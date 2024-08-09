@@ -1,0 +1,19 @@
+.x1 a, .x2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.x1{
+    background-color: black;
+}
+
+.x2{
+    background-color: red;
+}
+
+.x1, .x2{
+    border: none;
+    padding: 15px;
+    font-size: 17px;
+    border-radius: 15px;
+}
